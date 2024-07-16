@@ -5,4 +5,5 @@ Package Required :
 2.) pyfirmata
 
 Controll Tracking Camera: https://youtube.com/shorts/G7no1uKFvZo?feature=share                  
-Controll Gimbal: https://youtube.com/shorts/7irxsrV7KWc?feature=share
+Controll Gimbal: https://youtube.com/shorts/7irxsrV7KWc?feature=share                      
+3D - Hardware: https://youtube.com/shorts/wmOS6aT6Lrk
