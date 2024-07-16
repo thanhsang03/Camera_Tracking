@@ -5,3 +5,4 @@ Package Required :
 2.) pyfirmata
 
 https://youtube.com/shorts/G7no1uKFvZo?feature=share
+Controll Gimbal: https://youtube.com/shorts/7irxsrV7KWc?feature=share
